@@ -1,4 +1,4 @@
 # -
 主要技术：HTML5+CSS3
 
-先下载git,然后Code链接,接着在git里写下git clone 加链接,最后打开index.html即可。
+直接点击Code，接着点Download,最后解压 双击index.html就行
